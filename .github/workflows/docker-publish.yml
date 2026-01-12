@@ -36,5 +36,5 @@ jobs:
           context: .
           platforms: linux/amd64
           push: true
-          tags: ghcr.io/bhavishyadahiya/uprock-docker/uprock:latest
+          tags: ghcr.io/Bhavishyadahiya/uprock-docker/uprock:latest
           no-cache: true
